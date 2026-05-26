@@ -1,0 +1,12 @@
+{
+  "project_id": "AVR102",
+  "rev": "REV000",
+  "rev_date": "2025-03-01",
+  "work_packages": [
+    {"cost_code":"CC-003-001","wp_no":"WP-T2-001","description":"Temporary Facilities & Utilities","zone":"Gen Req","trade":"General Requirements","lead_time_days":30,"awarding_date":"2025-04-01","actual_awarding_date":null,"target_delivery_date":"2025-05-01","target_installation_date":null,"target_completion_date":"2026-06-30","approved_budget_php":15000000,"contract_amount_php":null,"status":"Not Yet Awarded","contractor":null,"remarks":""},
+    {"cost_code":"CC-003-002","wp_no":"WP-T2-002","description":"Earthworks & Excavation","zone":"Tower 2","trade":"Civil Works","lead_time_days":45,"awarding_date":"2025-04-15","actual_awarding_date":null,"target_delivery_date":"2025-06-01","target_installation_date":"2025-06-10","target_completion_date":"2025-10-31","approved_budget_php":32000000,"contract_amount_php":null,"status":"Not Yet Awarded","contractor":null,"remarks":""},
+    {"cost_code":"CC-003-003","wp_no":"WP-T2-003","description":"Pile Foundation Works","zone":"Tower 2","trade":"Civil Works","lead_time_days":60,"awarding_date":"2025-05-01","actual_awarding_date":null,"target_delivery_date":"2025-07-01","target_installation_date":"2025-07-10","target_completion_date":"2025-12-31","approved_budget_php":52000000,"contract_amount_php":null,"status":"Not Yet Awarded","contractor":null,"remarks":""},
+    {"cost_code":"CC-003-004","wp_no":"WP-T2-004","description":"Structural Steel Framework","zone":"Tower 2","trade":"Structural Steel","lead_time_days":90,"awarding_date":"2025-06-01","actual_awarding_date":null,"target_delivery_date":"2025-09-01","target_installation_date":"2025-09-15","target_completion_date":"2026-04-30","approved_budget_php":210000000,"contract_amount_php":null,"status":"Not Yet Awarded","contractor":null,"remarks":""},
+    {"cost_code":"CC-003-005","wp_no":"WP-T2-005","description":"Facade & Curtain Wall","zone":"Tower 2","trade":"Facade","lead_time_days":120,"awarding_date":"2025-08-01","actual_awarding_date":null,"target_delivery_date":"2025-12-01","target_installation_date":"2025-12-15","target_completion_date":"2026-06-30","approved_budget_php":115000000,"contract_amount_php":null,"status":"Not Yet Awarded","contractor":null,"remarks":""}
+  ]
+}
