@@ -1,32 +1,18 @@
 [
   {
     "id": "AVR101",
-    "name": "AVR101 — Gen Req & Tower 1",
-    "client": "Avenir Realty Corp",
-    "location": "Quezon City, Metro Manila",
+    "name": "AVR101 — Avesta Residences",
+    "full_name": "AVESTA RESIDENCES (4PH IMUS) — General Requirements & Tower 1",
+    "client": "4PH / Avenir Realty Corp",
+    "location": "Brgy. Malagasang, Imus, Cavite",
     "type": "Vertical — Residential Tower",
     "rev": "REV001",
     "rev_date": "2025-02-24",
-    "ntp_date": "2023-09-01",
-    "target_completion": "2025-12-31",
-    "total_budget_php": 937500000,
+    "ntp_date": "2024-11-04",
+    "target_completion": "2029-12-31",
+    "total_budget_php": 274911191,
     "project_manager": "F.M. Lozano",
     "status": "active",
     "data_file": "data/AVR101/work-packages.json"
-  },
-  {
-    "id": "AVR102",
-    "name": "AVR102 — Tower 2",
-    "client": "Avenir Realty Corp",
-    "location": "Quezon City, Metro Manila",
-    "type": "Vertical — Residential Tower",
-    "rev": "REV000",
-    "rev_date": "2025-03-01",
-    "ntp_date": "2024-03-01",
-    "target_completion": "2026-06-30",
-    "total_budget_php": 1150000000,
-    "project_manager": "F.M. Lozano",
-    "status": "active",
-    "data_file": "data/AVR102/work-packages.json"
   }
 ]
